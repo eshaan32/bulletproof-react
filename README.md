@@ -5,7 +5,7 @@
 
 A simple, scalable, and powerful architecture for building production ready React applications.
 
-## Introduction
+## Introduction TEST EDIT
 
 React is an excellent tool for building front-end applications. It has a diverse ecosystem with hundreds of great libraries for literally anything you might need. However, being forced to make so many choices can be overwhelming. It is also very flexible, you can write React applications in any way you like, but that flexibility comes with a cost. Since there is no pre-defined architecture that developers can follow, it often leads to a messy, inconsistent, and over-complicated codebase.
 
